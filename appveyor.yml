@@ -3,7 +3,7 @@ image: Visual Studio 2022
 configuration: Release
 environment:
   COVERALLS_REPO_TOKEN:
-    secure: 8H1ymuemdW95r82YUjZi9JsiJGqr55KvP8RC011LaiGE4mm2hVVI2RWKwddgg56J
+    secure: v5vTnOWWiok7CONMIxl22Zs9aNX5di7UAqboROpiZuya0Asd17BupqSsa8120c4c
   keyfile_salt:
     secure: 7MQg/ApVF+pQ6BH9mIygmZZXYylcKrYU0MDPVhFKq/3lwqrD07yBFDjWnX90WEFDMVPrMKuC2ljPCTsgwlhtnQ==
   keyfile_secret:
